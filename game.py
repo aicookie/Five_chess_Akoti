@@ -18,8 +18,8 @@ matrix = [[0] * 24 for _ in range(24)]
 for xl in matrix:
     print(xl)
 
-wc = pygame.image.load("新角色-造型帧1 (3).png")
-bc = pygame.image.load("新角色-造型帧1 (2).png")
+wc = pygame.image.load("whitechess.png")
+bc = pygame.image.load("blackchess.png")
 
 max([1, 7, 3, 5, 9])
 

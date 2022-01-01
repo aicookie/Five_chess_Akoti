@@ -148,8 +148,8 @@ screen = g.display.set_mode((1000, 1000))
 
 # 1> 加载图像
 bg = pygame.image.load("fcb7bf11701da82fa08c033a431872ac.jpeg")
-wc = pygame.image.load("新角色-造型帧1 (3).png")
-bc = pygame.image.load("新角色-造型帧1 (2).png")
+wc = pygame.image.load("whitechess.png")
+bc = pygame.image.load("blackchess.png")
 wce = pygame.transform.scale(wc, (50, 50))
 bce = pygame.transform.scale(bc, (50, 50))
 
