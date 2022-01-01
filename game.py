@@ -6,7 +6,7 @@ pygame = g
 g.init()
 pygame.display.init()
 screen = g.display.set_mode((1000, 1000))
-bg = pygame.image.load("fcb7bf11701da82fa08c033a431872ac.jpeg")
+bg = pygame.image.load("board.jpeg")
 screen.blit(bg, (0, 0))
 who = 1
 
