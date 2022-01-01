@@ -13,6 +13,15 @@ we will use other languages to help it.
 
 thank you.
 
-if you can't deafeat this weak AI, you can use this command
+if you can't deafeat this weak AI, you can use this command to put your chess
+```
+python path/path/path/game5chess.py x,y,1 * n
+```
 
+if you can deafeat this weak AI, you can use this command to put his chess
 
+```
+python path/path/path/game5chess.py x,y,2* n
+```
+
+also we will make the AI strong in those year.
