@@ -12,3 +12,7 @@ if have some trouble does python can't do it,
 we will use other languages to help it.
 
 thank you.
+
+if you can't deafeat this weak AI, you can use this command
+
+
